@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SankariKamal
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me on Kamalsankari01@gmail.com
+- 👀 I’m interested in Computer Science / Software Development
+- 🌱 I’m currently learning ASP.net Core
+- 📫 How to reach me on Kamalsankari79@gmail.com
 - 😄 Pronouns: He/Him
 
 
