@@ -1,13 +1,13 @@
 # Kamal Sankari
 
-Aspiring software developer focused on building clean, responsive web projects and growing into full-stack development with ASP.NET Core.
+Aspiring developer focused on building clean, responsive web projects and growing into full-stack development with ASP.NET Core.
 
 Open to internships and junior opportunities where I can keep improving, contribute to real products, and work with a strong team.
 
 ## What I Work On
 
-- Frontend projects with HTML, CSS, and JavaScript
-- Learning backend development with ASP.NET Core
+- Frontend projects with HTML, CSS, JavaScript, React.js, Typescript, Bootstrap, Tailwind CSS,
+- Learning backend development with Node.js and ASP.NET Core
 - Building small applications with attention to UI, usability, and clean code
 
 ## Core Skills
@@ -15,9 +15,11 @@ Open to internships and junior opportunities where I can keep improving, contrib
 - HTML5
 - CSS3
 - JavaScript
-- ASP.NET Core
+- Java
+- C language
+- c#
 - Git and GitHub
-
+- ASP.NET Core (Still Learning)
 ## Current Focus
 
 - Improving project quality and presentation
